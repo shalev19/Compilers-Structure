@@ -1,0 +1,12 @@
+find token ID with lexeme asdasdj
+find token WS
+find token NUMBER with lexeme 2983
+find token SEP with lexeme .
+find token NUMBER with lexeme 2323
+find token SEP with lexeme .
+find token WS
+find token SEP with lexeme .
+find token WS
+find token NUMBER with lexeme 2313
+find token WS
+find token ID with lexeme sadasa
