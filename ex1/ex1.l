@@ -244,7 +244,7 @@ int sleTypeCheck(const char* str)
 int checkNumType(const char* str)
 {
 	char *dot = strrchr(str, '.');
-    return dot!=NULL? 1:0;
+    return dot!=NULL;
 }
 
 int yywrap()
